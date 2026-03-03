@@ -2,7 +2,7 @@
 
 A SaaS-style web application that detects fraudulent internship postings using risk scoring, keyword analysis, blacklist verification, and audit logging.
 
-## 🚀 Features
+## Features
 
 - Scam internship detection logic
 - Risk scoring system
@@ -14,7 +14,7 @@ A SaaS-style web application that detects fraudulent internship postings using r
 - Session handling
 - Audit logging
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Python
 - Streamlit
@@ -22,7 +22,7 @@ A SaaS-style web application that detects fraudulent internship postings using r
 - Pandas
 - Git & GitHub
 
-## 📦 Installation
+## Installation
 
 ```bash
 pip install -r requirements.txt
