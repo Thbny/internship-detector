@@ -1,4 +1,4 @@
-# 🛡 Internship Detector
+# Internship Detector
 
 A SaaS-style web application that detects fraudulent internship postings using risk scoring, keyword analysis, blacklist verification, and audit logging.
 
