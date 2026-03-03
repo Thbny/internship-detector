@@ -6,3 +6,4 @@ supabase
 bcrypt
 python-dotenv
 requests
+plotly
